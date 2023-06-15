@@ -1,1 +1,1 @@
-# work-multiple-github-accounts-2
+# work-multiple-github-accounts
